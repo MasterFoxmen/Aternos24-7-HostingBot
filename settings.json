@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Aternos24/7BOT",
+    "username": "Aternos24/7",
     "password": "",
     "type": "offline"
   },
@@ -74,7 +74,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
+    "pick-up-day": false,
     "place-night": true
   },
   "discord": {
